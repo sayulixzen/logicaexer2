@@ -1,0 +1,13 @@
+*{
+    margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../fotos/fundo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+
+}
